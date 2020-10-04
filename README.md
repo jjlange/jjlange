@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjlange" alt="jjlange" /> </p>
 
-- 📫 How to reach me **langejustin@icloud.com**
+- 👉🏻 Add me on Discord: **#jjlange#3088**
+- 📫 Reach me by email too: **langejustin@icloud.com**
 
 <p align="left"> 
 <h3 align="left">My Social Media</h3>
