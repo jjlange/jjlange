@@ -6,7 +6,7 @@
 - 📫 How to reach me **langejustin@icloud.com**
 
 <p align="left"> 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media</h3>
 <a href="https://twitter.com/jjlange_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jjlange_" height="30" width="40" /></a>
 <a href="https://instagram.com/jj.lange" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jj.lange" height="30" width="40" /></a>
 </p>
