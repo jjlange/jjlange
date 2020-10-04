@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,&nbsp; I'm Justin</h1>
+<h1 align="center">Hi ,&nbsp; I'm Justin 👋</h1>
 <h3 align="center">An iOS & macOS 🍎, Web, and Software Developer. Studying Computer Science at the University of Westminster in the UK 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjlange" alt="jjlange" /> </p>
