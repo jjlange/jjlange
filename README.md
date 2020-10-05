@@ -1,5 +1,5 @@
 <h1 align="center">Hi,&nbsp; I'm Justin &nbsp;👋</h1>
-<h3 align="center">An iOS & macOS 🍎, Web, and Software Developer. <br />Studying Computer Science at the University of Westminster in London 🇬🇧</h3>
+<h3 align="center">An iOS & macOS 🍎, Web, and Software Developer. <br />Oh.. and studying Computer Science at the University of Westminster 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjlange" alt="jjlange" /> </p>
 
