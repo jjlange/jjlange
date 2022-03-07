@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Justin<br/>An iOS & macOS 🍎, Web and Software Engineer.</h2>
+<h1 align="center">Hi 👋, I'm Justin<br/>An iOS & macOS 🍎, Web and Software Engineer.</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjlange" alt="jjlange" /></a> </p>
 
 <h2 align="left">Connect with me:</h3>
