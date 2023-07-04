@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin<br/>An iOS & macOS 🍎, Web and Software Engineer.</h1>
+<h1 align="center">Hi 👋, I'm Justin<br/>An full-stack Software Engineer 🍎.</h1>
 Thank you for visiting my GitHub profile. Feel free to contribute on any open-source projects I am working on.<br/>
 You can see the tools and technologies I am exploring and different networks I am using below:
 
